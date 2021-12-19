@@ -1,0 +1,26 @@
+
+.logo-trending{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.tom-p{
+    display:inline;    
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.tom-title{
+    margin-top: 10px;
+    font-weight: bold;
+    font-style: initial;
+}
+.tom-srow{
+    margin-top: 30px;
+}
+.bolgs-container{
+    margin-top: 70px;
+}
+.img-blog{
+    width: 100%;
+    margin-bottom: 30px;
+}
